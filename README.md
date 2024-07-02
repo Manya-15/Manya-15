@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=php,c,cpp,html,css,vscode,github,figma,flutter,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,Keras,sklearn,tensorflow,pandas,mongodb,java,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,sklearn,tensorflow,mongodb,java,mysql,flask" />![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)<br>
 </div>
 
 <br/>
