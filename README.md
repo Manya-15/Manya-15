@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Myself+Manya+Joshi!;" /></h1>
 
 - 🔭 I am a ML and Data Science enthusiast with specialized bachelors degree in Artificial Intelligence and Data Science.
-- 🧓 I'm familier with programming languages like Python, C, C++, Java, PHP and currently I'm exploring deep learning.
+- 🧓 I'm familier with programming languages like Python, GO ,C, C++, Java, PHP and currently I'm exploring deep learning.
 - 💬 Ask me about SQL or NoSQL (MongoDB) database, AI and ML. 
 - 📫 How to reach me: LinkedIn [@Manya Joshi](https://www.linkedin.com/in/manya-joshi-ai/) or mail [@Manya](mailto:manya.intellect@gmail.com)
 - 😄 Pronouns: She/Her
@@ -14,6 +14,9 @@
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
       alt="python"/> 
+  </a>
+    <a href="https://golang.org" target="_blank">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   </a>
   <a href="https://www.w3.org/php/" target="_blank"> 
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
